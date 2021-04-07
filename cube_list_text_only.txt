@@ -1,0 +1,480 @@
+yugiohset_Rescue Cat
+yugiohset_Rescue Ferret
+yugiohset_Wind-Up Kitten
+yugiohset_Hop Ear Squadron
+yugiohset_Melffy Puppy
+yugiohset_Melffy Catty
+yugiohset_Melffy Fenny
+yugiohset_The Fabled Cerburrel
+yugiohset_The Fabled Catsith
+yugiohset_Watch Cat
+yugiohset_Lilith, Lady of Lament
+yugiohset_Phantom King Hydride
+yugiohset_Infernity Conjurer
+yugiohset_Edge Imp Sabres
+yugiohset_Kuribandit
+yugiohset_Tour Guide From the Underworld
+yugiohset_Sangan
+yugiohset_Scarm, Malebranche of the Burning Abyss
+yugiohset_Terrifying Toddler of Torment
+yugiohset_Night Assailant
+yugiohset_Spirit of the Fall Wind
+yugiohset_Fossil Dyna Pachycephalo
+yugiohset_Aroma Jar
+yugiohset_Mask of Darkness
+yugiohset_Magician of Faith
+yugiohset_Scapeghost
+yugiohset_Crystal Seer
+yugiohset_Apprentice Piper
+yugiohset_Magical Undertaker
+yugiohset_Old Vindictive Magician
+yugiohset_Iron Blacksmith Kotetsu
+yugiohset_Morphing Jar
+yugiohset_Penguin Soldier
+yugiohset_Prediction Princess Coinorma
+yugiohset_Prediction Princess Petalelf
+yugiohset_Tindangle Angel
+yugiohset_Subterror Behemoth Stygokraken
+yugiohset_Subterror Behemoth Phospheroglacier
+yugiohset_Subterror Behemoth Ultramafus
+yugiohset_Pot of The Forbidden
+yugiohset_Maxx &quot;C&quot;
+yugiohset_Effect Veiler
+yugiohset_Ghost Belle &amp; Haunted Mansion
+yugiohset_Ghost Ogre &amp; Snow Rabbit
+yugiohset_Ash Blossom &amp; Joyous Spring
+yugiohset_Dark Honest
+yugiohset_Honest
+yugiohset_Ghostrick Jackfrost
+yugiohset_Battle Fader
+yugiohset_Glow-Up Bulb
+yugiohset_Dandylion
+yugiohset_Absolute King Back Jack
+yugiohset_Cardcar D
+yugiohset_Marshmallon
+yugiohset_Crane Crane
+yugiohset_Junk Forward
+yugiohset_Junk Synchron
+yugiohset_Psychic Wheeleder
+yugiohset_Psychic Tracker
+yugiohset_Summoner Monk
+yugiohset_Tin Goldfish
+yugiohset_Witch of the Black Forest
+yugiohset_Tsukuyomi
+yugiohset_Traptrix Genlisea
+yugiohset_Traptrix Ginalloa
+yugiohset_Traptrix Myrmeleo
+yugiohset_Dark-Eye Nightmare
+yugiohset_Fairy Tail - Luna
+yugiohset_Fairy Tail - Rochka
+yugiohset_Fairy Tail - Snow
+yugiohset_Fairy Tail - Rella
+yugiohset_Fairy Tail - Sleeper
+yugiohset_Iron Dragon Tiamaton
+yugiohset_Giant Rat
+yugiohset_Mystic Tomato
+yugiohset_Shining Angel
+yugiohset_Swarm of Crows
+yugiohset_Mystrick Hulder
+yugiohset_Mana Dragon Zirnitron
+yugiohset_Dark Dust Spirit
+yugiohset_Delg the Dark Monarch
+yugiohset_Kuraz the Light Monarch
+yugiohset_Witchcrafter Haine
+yugiohset_Dark Magician of Chaos
+yugiohset_Cataclysmic Crusted Calcifida
+yugiohset_Lava Golem
+yugiohset_Beast King Barbaros
+yugiohset_Slifer the Sky Dragon
+yugiohset_Flamvell Guard
+yugiohset_Galaxy Serpent
+yugiohset_Guardragon Justicia
+yugiohset_Crowned by the World Chalice
+yugiohset_Melffy Rabby
+yugiohset_Tune Warrior
+yugiohset_Hunter Dragon
+yugiohset_Sonic Duck
+yugiohset_Mad Lobster
+yugiohset_Angel Trumpeter
+yugiohset_Mystery Shell Dragon
+yugiohset_Mekk-Knight Avram
+yugiohset_Toll
+yugiohset_Ground Collapse
+yugiohset_Swords of Concealing Light
+yugiohset_Pinpoint Landing
+yugiohset_Card of Safe Return
+yugiohset_Shard of Greed
+yugiohset_Supply Squad
+yugiohset_Moon Mirror Shield
+yugiohset_&quot;Infernoble Arms - Hauteclere&quot;
+yugiohset_Autonomous Action Unit
+yugiohset_Premature Burial
+yugiohset_D.D.R. - Different Dimension Reincarnation
+yugiohset_Chicken Game
+yugiohset_Lightning Vortex
+yugiohset_Dark Hole
+yugiohset_Special Hurricane
+yugiohset_Heavy Storm
+yugiohset_Monster Reborn
+yugiohset_Foolish Burial
+yugiohset_Creature Swap
+yugiohset_Mind Control
+yugiohset_Book of Taiyou
+yugiohset_Tribute to the Doomed
+yugiohset_Fissure
+yugiohset_Hammer Shot
+yugiohset_Smashing Ground
+yugiohset_Sky Striker Maneuver - Afterburners!
+yugiohset_Sky Striker Maneuver - Jamming Waves!
+yugiohset_Galaxy Cyclone
+yugiohset_Magical Stone Excavation
+yugiohset_One Day of Peace
+yugiohset_Gold Sarcophagus
+yugiohset_Different Dimension Capsule
+yugiohset_Draw of Fate
+yugiohset_Reasoning
+yugiohset_Confiscation
+yugiohset_Double Summon
+yugiohset_Magical Mallet
+yugiohset_Terraforming
+yugiohset_Upstart Goblin
+yugiohset_Ledger of Legerdemain
+yugiohset_Dark World Dealings
+yugiohset_Trade-In
+yugiohset_Allure of Darkness
+yugiohset_Card of Demise
+yugiohset_Pot of Duality
+yugiohset_Pot of Dichotomy
+yugiohset_Pot of Desires
+yugiohset_Pot of Avarice
+yugiohset_Pot of Prosperity
+yugiohset_Pot of Extravagance
+yugiohset_Mystical Space Typhoon
+yugiohset_Twin Twisters
+yugiohset_Cosmic Cyclone
+yugiohset_Book of Moon
+yugiohset_Book of Lunar Eclipse
+yugiohset_Enemy Controller
+yugiohset_Forbidden Chalice
+yugiohset_Shrink
+yugiohset_Called by the Grave
+yugiohset_Scapegoat
+yugiohset_Hand Destruction
+yugiohset_Reload
+yugiohset_My Body as a Shield
+yugiohset_Call of the Haunted
+yugiohset_Spiritual Swords of Revealing Light
+yugiohset_Xing Zhen Hu
+yugiohset_Reusable Jar
+yugiohset_Dark Factory of More Production
+yugiohset_Magic Jammer
+yugiohset_Seven Tools of the Bandit
+yugiohset_Grand Horn of Heaven
+yugiohset_Horn of Heaven
+yugiohset_Black Horn of Heaven
+yugiohset_Negate Attack
+yugiohset_Dark Bribe
+yugiohset_Recall
+yugiohset_Broken Line
+yugiohset_Solemn Judgement
+yugiohset_Solemn Strike
+yugiohset_Solemn Warning
+yugiohset_Solemn Scolding
+yugiohset_Torrential Tribute
+yugiohset_Sakuretsu Armor
+yugiohset_Back to the Front
+yugiohset_Burst Rebirth
+yugiohset_Compulsory Evacuation Device
+yugiohset_The Phantom Knights of Shade Brigandine
+yugiohset_Ice Dragon&apos;s Prison
+yugiohset_Lost Wind
+yugiohset_Breakthrough Skill
+yugiohset_Titanocider
+yugiohset_Waboku
+yugiohset_Threatening Roar
+yugiohset_Magic Cylinder
+yugiohset_Ring of Destruction
+yugiohset_Paleozoic Dinomischus
+yugiohset_Paleozoic Olenoides
+yugiohset_Paleozoic Canadia
+yugiohset_Raigeki Break
+yugiohset_Dust Tornado
+yugiohset_Heavy Storm Duster
+yugiohset_Graverobber
+yugiohset_Subterror Succession
+yugiohset_Switcheroroo
+yugiohset_Scrap-Iron Scarecrow
+yugiohset_Trap Dustshoot
+yugiohset_Armory Call
+yugiohset_Needle Ceiling
+yugiohset_Accumulated Fortune
+yugiohset_Hope for Escape
+yugiohset_Balance of Judgment
+yugiohset_Mirror Force
+yugiohset_Storming Mirror Force
+yugiohset_Quaking Mirror Force
+yugiohset_Drowning Mirror Force
+yugiohset_Blazing Mirror Force
+yugiohset_Trap Hole
+yugiohset_Time-Space Trap Hole
+yugiohset_Void Trap Hole
+yugiohset_Deep Dark Trap Hole
+yugiohset_Bottomless Trap Hole
+yugiohset_Traptrix Trap Hole Nightmare
+yugiohset_Gravedigger&apos;s Trap Hole
+yugiohset_Floodgate Trap Hole
+yugiohset_Trap Hole of Spikes
+yugiohset_Network Trap Hole
+yugiohset_Treacherous Trap Hole
+yugiohset_Castel, the Skyblaster Musketeer
+yugiohset_Daigusto Emeral
+yugiohset_Traptrix Rafflesia
+yugiohset_Number 30: Acid Golem of Destruction
+yugiohset_Virtual World Dragon - Longlong
+yugiohset_Leviair the Sea Dragon
+yugiohset_Ghostrick Alucard
+yugiohset_Number 75: Bamboozling Gossip Shadow
+yugiohset_Dante, Traveler of the Burning Abyss
+yugiohset_Number 49: Fortune Tune
+yugiohset_Number 29: Mannequin Cat
+yugiohset_Sky Cavalry Centaurea
+yugiohset_Gem-Knight Pearl
+yugiohset_Dark Rebellion Xyz Dragon
+yugiohset_Number 39: Utopia
+yugiohset_Time Thief Redoer
+yugiohset_Light Dragon @Ignister
+yugiohset_Traptrix Allomerus
+yugiohset_Tornado Dragon
+yugiohset_Number 41: Bagooska the Terribly Tired Tapir
+yugiohset_Number 101: Silent Honor ARK
+yugiohset_Minerva, the Exalted Lightsworn
+yugiohset_Evilswarm Exciton Knight
+yugiohset_Lavalval Chain
+yugiohset_Tatsunoko
+yugiohset_Old Entity Hastorr
+yugiohset_Infernoble Knight Captain Roland
+yugiohset_Armades, Keeper of Boundaries
+yugiohset_T.G. Hyper Librarian
+yugiohset_Desert Locusts
+yugiohset_Tempest Magician
+yugiohset_Brionac, Dragon of the Ice Barrier
+yugiohset_Coral Dragon
+yugiohset_Virtual World Beast - Jiujiu
+yugiohset_Gaia Knight, the Force of Earth
+yugiohset_Arcanite Magician
+yugiohset_Ancient Fairy Dragon
+yugiohset_Wind Pegasus @Ignister
+yugiohset_Power Tool Mecha Dragon
+yugiohset_Power Tool Dragon
+yugiohset_Black Rose Dragon
+yugiohset_Black Rose Moonlight Dragon
+yugiohset_Stardust Dragon
+yugiohset_Hot Red Dragon Archfiend
+yugiohset_Chaos Ruler, the Chaotic Magical Dragon
+yugiohset_Trishula, Dragon of the Ice Barrier
+yugiohset_Salamangreat Almiraj
+yugiohset_Link Spider
+yugiohset_Linkuriboh
+yugiohset_Clara &amp; Rushka, the Ventriloduo
+yugiohset_Cherubini, Ebon Angel of the Burning Abyss
+yugiohset_Union Carrier
+yugiohset_Barricadeborg Blocker
+yugiohset_LANphorhynchus
+yugiohset_Proxy Dragon
+yugiohset_Defender of the Labyrinth
+yugiohset_Aussa the Earth Charmer, Immovable
+yugiohset_Hiita the Fire Charmer, Ablaze
+yugiohset_Lyna the Light Charmer, Shining
+yugiohset_Akashic Magician
+yugiohset_Knightmare Cerberus
+yugiohset_Knightmare Phoenix
+yugiohset_Subterror Behemoth Fiendess
+yugiohset_Knightmare Unicorn
+yugiohset_Selene, Queen of the Master Magicians
+yugiohset_Decode Talker
+yugiohset_Curious, the Lightsworn Dominion
+yugiohset_Gaia Saber, the Lightning Shadow
+yugiohset_Draco Masters of the Tenyi
+yugiohset_Knightmare Gryphon
+yugiohset_Borrelguard Dragon
+yugiohset_Borreload Dragon
+yugiohset_Amazoness Chain Master
+yugiohset_Cyber Gymnast
+yugiohset_Marauding Captain
+yugiohset_Armed Samurai - Ben Kei
+yugiohset_Mataza the Zapper
+yugiohset_D.D. Warrior Lady
+yugiohset_Command Knight
+yugiohset_Infernoble Knight Oliver
+yugiohset_Infernoble Knight - Roland
+yugiohset_Mage Power
+yugiohset_Axe of Despair
+yugiohset_Divine Sword - Phoenix Blade
+yugiohset_Power of the Guardians
+yugiohset_Reinforcement of the Army
+yugiohset_The Warrior Returning Alive
+yugiohset_Subterror Behemoth Umastryx
+yugiohset_Guardian Sphinx
+yugiohset_Swarm of Scarabs
+yugiohset_Medusa Worm
+yugiohset_Swarm of Locusts
+yugiohset_Golem Sentry
+yugiohset_Guardian Statue
+yugiohset_Stealth Bird
+yugiohset_Des Lacooda
+yugiohset_Worm Linx
+yugiohset_Ghostrick Mansion
+yugiohset_Vengeful Bog Spirit
+yugiohset_Messenger of Peace
+yugiohset_Nightmare&apos;s Steelcage
+yugiohset_Cauldron of the Old Man
+yugiohset_Knight of the Red Lotus
+yugiohset_Tenyi Spirit - Nahata
+yugiohset_Tenyi Spirit - Shthana
+yugiohset_Rescue Rabbit
+yugiohset_Treasure Panda
+yugiohset_Draconnet
+yugiohset_Goblindbergh
+yugiohset_Red Resonator
+yugiohset_Unexpected Dai
+yugiohset_Flawless Perfection of the Tenyi
+yugiohset_Enchanting Fitting Room
+yugiohset_Painful Decision
+yugiohset_White Elephant&apos;s Gift
+yugiohset_Fists of the Unrivaled Tenyi
+yugiohset_Cry Havoc!
+yugiohset_Thunder Dragonduo
+yugiohset_The Chaos Creator
+yugiohset_Chaos Sorcerer
+yugiohset_Chaos Valkyria
+yugiohset_Shaddoll Dragon
+yugiohset_Jain, Lightsworn Paladin
+yugiohset_Raiden, Hand of the Lightsworn
+yugiohset_Lyla, Lightsworn Sorceress
+yugiohset_Felis, Lightsworn Archer
+yugiohset_Ryko, Lightsworn Hunter
+yugiohset_Necro Gardna
+yugiohset_Performage Trick Clown
+yugiohset_Mathematician
+yugiohset_Magical Merchant
+yugiohset_Sekka&apos;s Light
+yugiohset_Dark Red Enchanter
+yugiohset_Magical Marionette
+yugiohset_Breaker the Magical Warrior
+yugiohset_Defender, the Magical Knight
+yugiohset_Royal Magical Library
+yugiohset_Blast Magician
+yugiohset_Magical Exemplar
+yugiohset_Magical Something
+yugiohset_Rogue of Endymion
+yugiohset_Apprentice Magician
+yugiohset_Frequency Magician
+yugiohset_Magical Citadel of Endymion
+yugiohset_Wonder Wand
+yugiohset_Mythical Bestiary
+yugiohset_Dark Renewal
+yugiohset_Granmarg the Rock Monarch
+yugiohset_Raiza the Storm Monarch
+yugiohset_Thestalos the Firestorm Monarch
+yugiohset_Mobius, the Frost Monarch
+yugiohset_Eidos the Underworld Squire
+yugiohset_Landrobe the Rock Vassal
+yugiohset_Lucius the Shadow Vassal
+yugiohset_Escher the Frost Vassal
+yugiohset_Samsara Kaiser
+yugiohset_Relinkuriboh
+yugiohset_The Monarchs Stormforth
+yugiohset_Supermagic Sword of Raptinus
+yugiohset_Advance Zone
+yugiohset_The First Monarch
+yugiohset_Escalation of the Monarchs
+yugiohset_Amazoness Chain Master
+yugiohset_Cyber Gymnast
+yugiohset_Marauding Captain
+yugiohset_Armed Samurai - Ben Kei
+yugiohset_Mataza the Zapper
+yugiohset_D.D. Warrior Lady
+yugiohset_Command Knight
+yugiohset_Infernoble Knight Oliver
+yugiohset_Infernoble Knight - Roland
+yugiohset_Mage Power
+yugiohset_Axe of Despair
+yugiohset_Divine Sword - Phoenix Blade
+yugiohset_Power of the Guardians
+yugiohset_Reinforcement of the Army
+yugiohset_The Warrior Returning Alive
+yugiohset_Subterror Behemoth Umastryx
+yugiohset_Guardian Sphinx
+yugiohset_Swarm of Scarabs
+yugiohset_Medusa Worm
+yugiohset_Swarm of Locusts
+yugiohset_Golem Sentry
+yugiohset_Guardian Statue
+yugiohset_Stealth Bird
+yugiohset_Des Lacooda
+yugiohset_Worm Linx
+yugiohset_Ghostrick Mansion
+yugiohset_Vengeful Bog Spirit
+yugiohset_Messenger of Peace
+yugiohset_Nightmare&apos;s Steelcage
+yugiohset_Cauldron of the Old Man
+yugiohset_Knight of the Red Lotus
+yugiohset_Tenyi Spirit - Nahata
+yugiohset_Tenyi Spirit - Shthana
+yugiohset_Rescue Rabbit
+yugiohset_Treasure Panda
+yugiohset_Draconnet
+yugiohset_Goblindbergh
+yugiohset_Red Resonator
+yugiohset_Unexpected Dai
+yugiohset_Flawless Perfection of the Tenyi
+yugiohset_Enchanting Fitting Room
+yugiohset_Painful Decision
+yugiohset_White Elephant&apos;s Gift
+yugiohset_Fists of the Unrivaled Tenyi
+yugiohset_Cry Havoc!
+yugiohset_Thunder Dragonduo
+yugiohset_The Chaos Creator
+yugiohset_Chaos Sorcerer
+yugiohset_Chaos Valkyria
+yugiohset_Shaddoll Dragon
+yugiohset_Jain, Lightsworn Paladin
+yugiohset_Raiden, Hand of the Lightsworn
+yugiohset_Lyla, Lightsworn Sorceress
+yugiohset_Felis, Lightsworn Archer
+yugiohset_Ryko, Lightsworn Hunter
+yugiohset_Necro Gardna
+yugiohset_Performage Trick Clown
+yugiohset_Mathematician
+yugiohset_Magical Merchant
+yugiohset_Sekka&apos;s Light
+yugiohset_Dark Red Enchanter
+yugiohset_Magical Marionette
+yugiohset_Breaker the Magical Warrior
+yugiohset_Defender, the Magical Knight
+yugiohset_Royal Magical Library
+yugiohset_Blast Magician
+yugiohset_Magical Exemplar
+yugiohset_Magical Something
+yugiohset_Rogue of Endymion
+yugiohset_Apprentice Magician
+yugiohset_Frequency Magician
+yugiohset_Magical Citadel of Endymion
+yugiohset_Wonder Wand
+yugiohset_Mythical Bestiary
+yugiohset_Dark Renewal
+yugiohset_Granmarg the Rock Monarch
+yugiohset_Raiza the Storm Monarch
+yugiohset_Thestalos the Firestorm Monarch
+yugiohset_Mobius, the Frost Monarch
+yugiohset_Eidos the Underworld Squire
+yugiohset_Landrobe the Rock Vassal
+yugiohset_Lucius the Shadow Vassal
+yugiohset_Escher the Frost Vassal
+yugiohset_Samsara Kaiser
+yugiohset_Relinkuriboh
+yugiohset_The Monarchs Stormforth
+yugiohset_Supermagic Sword of Raptinus
+yugiohset_Advance Zone
+yugiohset_The First Monarch
+yugiohset_Escalation of the Monarchs
