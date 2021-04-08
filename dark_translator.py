@@ -33,7 +33,6 @@ def cardParser(fd):
             
             print("Single Card URL")
             # Request.get has to have '&' character escaped
-            # because the internet is garbage
             singleCardURL = forbiddenURL + line.replace('&', '%26')
             markup = requests.get(singleCardURL, "html.parser")
             print(singleCardURL)
@@ -53,7 +52,7 @@ def cardParser(fd):
             altName = reSearchQuery.group(0)
             print(altName + '\n')
 
-            # XML was also made by stylish sullen babies
+            # XML also has the same issue
             xmlSafeName = "yugiohset_" + line.replace('&', '&amp;').replace('"', '&quot;').replace('\'', '&apos;').replace('<', '&lt;').replace('>', '&gt;')
             xmlSafeText = textString.replace('&', '&amp;').replace('"', '&quot;').replace('\'', '&apos;').replace('<', '&lt;').replace('>', '&gt;')
 
